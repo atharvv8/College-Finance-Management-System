@@ -15,7 +15,7 @@ to the college.
 1. Clone the repo
 
 ```
-https://github.com/atharvv8/CollegeFinanceManagementSystem.git
+https://github.com/atharvv8/College-Finance-Management-System
 ```
 
 2. Open Project Folder
